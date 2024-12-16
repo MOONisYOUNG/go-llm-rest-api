@@ -1,7 +1,7 @@
 # 🎮 go-py-llm-rest-api <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=LangChain&logoColor=white"/> <img src="https://github.com/user-attachments/assets/dbdacdea-4baa-4c0c-9925-f2cbb03cedc9" width=70> 
-## 👉 Go/Python언어, REST API, LLM을 조합하여 만든 '롤 닉네임 AI 제너레이터'
+## 👉 Go/Python언어, REST API, LLM을 조합하여 만든 '게임 LoL 닉네임 AI 제너레이터'
 ### ✅ 프로젝트 소개
-LLM을 통해 생성한 '롤 게임 닉네임'을 Fiber 프레임워크 기반으로 제작한 REST API에 전송하는 기능을 코드로 구현했습니다.  
+LLM을 통해 생성한 'LoL 게임 닉네임'을 Fiber 프레임워크 기반으로 제작한 REST API에 전송하는 기능을 코드로 구현했습니다.  
   
 생성 내역 중복 검사가 필요 없는 도메인 영역을 선정하는 과정에서 꽤 많은 고민거리가 파생되었습니다.  
 고민 끝에 게임 'League of Legends(약칭: LoL 또는 롤)'은 중복 닉네임을 허용한다는 것이 기억나서 해당 테마를 주제로 고르게 되었습니다.  
