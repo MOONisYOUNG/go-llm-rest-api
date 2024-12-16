@@ -1,4 +1,4 @@
-module goproject/go-llm-rest-api/go-server
+module goproject/go-py-llm-rest-api/go-server
 
 go 1.22.4
 
